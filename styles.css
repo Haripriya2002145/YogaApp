@@ -167,7 +167,8 @@ textarea {
     background-color: #313bac;
 }
 
-.footer__container a {
+.footer__container i {
+    font-size: 2rem;
     padding: 30px;
     text-decoration: none;
     color: #ffff;
